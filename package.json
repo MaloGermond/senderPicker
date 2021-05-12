@@ -1,0 +1,9 @@
+{
+  "name": "senderPicker",
+  "version": "0.1.0",
+  "description": "Managing alias email",
+  "main": "index.js",
+  "repository": "https://github.com/MaloGermond/senderPicker.git",
+  "author": "malo <Malo.germond@gmail.com>",
+  "license": "MIT"
+}
